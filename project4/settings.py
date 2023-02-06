@@ -125,7 +125,7 @@ USE_TZ = True
 #    os.path.join(BASE_DIR, 'static')
 #]
 
-STATIC_ROOT = os.path.join(BASE_DIR, 'network/media')
+STATIC_ROOT = os.path.join(BASE_DIR, 'social-network/network/media')
 
 STATIC_URL = '/static/'
 #MEDIA_ROOT = os.path.join(BASE_DIR, 'network/media')
